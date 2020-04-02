@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">tdc_demo1.0</string>
+
+    <string-array name="array">
+        <item>ABC</item>
+        <item>ABC</item>
+        <item>ABC</item>
+        <item>ABC</item>
+        <item>ABC</item>
+        <item>ABC</item>
+        <item>ABC</item>
+        <item>ABC</item>
+        <item>ABC</item>
+        <item>ABC</item>
+        <item>ABC</item>
+        <item>ABC</item>
+        <item>ABC</item>
+        <item>ABC</item>
+        <item>ABC</item>
+        <item>ABC</item>
+    </string-array>
+</resources>
